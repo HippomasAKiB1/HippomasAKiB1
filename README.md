@@ -15,7 +15,7 @@
 
 <!-- ASCII BANNER -->
 <p>
-<pre>
+<pre style="display: flex; justify-content: center;">
 ╔═════════════════════════════════╗
 ║                                 ║
 ║    █████╗ ██╗  ██╗██╗██████╗    ║
