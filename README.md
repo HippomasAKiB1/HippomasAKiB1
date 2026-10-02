@@ -67,7 +67,7 @@
   <i>Building the future, one model at a time.</i>
 </p>
 
-Final-year Computer Science and Engineering student with a 3.84 GPA and a passion for building production-grade AI systems. I have shipped multiple end-to-end ML applications—from RAG-powered companions to multimodal vision-language models—with live demos and production deployments.
+Final-semester Computer Science and Engineering student with a 3.85 GPA and a passion for building production-grade AI systems. I have shipped multiple full-stack applications and end-to-end ML applications—from RAG-powered companions to multimodal vision-language models—with live demos and production deployments.
 
 <table align="center" border="0" cellpadding="10" width="80%">
   <tr>
@@ -75,11 +75,13 @@ Final-year Computer Science and Engineering student with a 3.84 GPA and a passio
       <b>Education</b><br />
       BSc in CSE · AIUB<br />
       <code>Jan 2023 – Sep 2026</code><br />
-      <small>GPA: 3.84 / 4.00</small>
+      <small>GPA: 3.85 / 4.00</small>
       <br /><br />
       <b>Awards</b><br />
       Dean's Award (5x)<br />
       2nd Runner-Up · bKash Datathon 2026
+      3rd Place · Google's Build With Gemma Hackathon @Bangladesh 
+      7th Place · LofiStack Hackathon 2026
       <br /><br />
       <b>Leadership</b><br />
       Assistant General Secretary · R&D<br />
@@ -88,9 +90,10 @@ Final-year Computer Science and Engineering student with a 3.84 GPA and a passio
     <td valign="top" width="50%">
       <b>Location</b><br />
       Dhaka, Bangladesh<br />
-      <code>Open to Remote & Global Roles</code>
+      <code>Open to Onsite, Remote & Global Roles</code>
       <br /><br />
       <b>Contact</b><br />
+      <a href="mailto:akibhasankp1245@gmail.com">mail@akibhasan.me</a><br />
       <a href="mailto:mail@akibhasan.me">mail@akibhasan.me</a><br />
       <a href="https://akibhasan.me">akibhasan.me</a>
       <br /><br />
