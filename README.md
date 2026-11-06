@@ -514,6 +514,13 @@ Backend-focused full-stack engineer with an AI/ML research background. I build p
   </tr>
   <tr>
     <td valign="top">
+      <b>Fine-Tuning and Backbone Trade-offs in Multi-Class Skin Disease Classification: A Single-Run Study with a Leakage Audit</b><br />
+      <small>ICREST27</small>
+    </td>
+    <td valign="top"><code>Submitted</code></td>
+  </tr>
+  <tr>
+    <td valign="top">
       <b>BartaVerify: A ML Framework for Fake News Detection in Bangla Using TF-IDF Character N-Gram Features and Explainable AI</b><br />
       <small>ACM TALLIP</small>
     </td>
@@ -523,6 +530,27 @@ Backend-focused full-stack engineer with an AI/ML research background. I build p
     <td valign="top">
       <b>BanglaVox: A Multimodal Audio-Visual Corpus for Dialect-Aware Speech Modeling in Bangla</b><br />
       <small>Data in Brief</small>
+    </td>
+    <td valign="top"><code>In Preparation</code></td>
+  </tr>
+  <tr>
+    <td valign="top">
+      <b>Seasonal Price Formation in US Potato Markets: An XGBoost–SHAP Framework with Multi-Source Integration for Interpretability</b><br />
+      <small>Target: Potato Research (Springer) or a similar journal</small>
+    </td>
+    <td valign="top"><code>About to Submit</code></td>
+  </tr>
+  <tr>
+    <td valign="top">
+      <b>When Do LLMs Hallucinate in Bangla? A Controlled Study Across Register, Domain, and Evidence Conditions</b><br />
+      <small>NLP journal · experiments run on Matibhrom, a platform built for the study</small>
+    </td>
+    <td valign="top"><code>In Preparation</code></td>
+  </tr>
+  <tr>
+    <td valign="top">
+      <b>Does Grammatical Knowledge Survive Romanization? A Script-Parallel Minimal-Pair Benchmark for Bangla</b><br />
+      <small>TACL</small>
     </td>
     <td valign="top"><code>In Preparation</code></td>
   </tr>
