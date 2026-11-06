@@ -63,7 +63,8 @@ Backend-focused full-stack engineer with an AI/ML research background. I build p
       Dean's Award (5×)<br />
       2nd Runner-Up · bKash Datathon 2026<br />
       3rd Place · Google Build with Gemma @Bangladesh<br />
-      7th Place · LofiStack Hackathon 2026
+      7th Place · LofiStack Hackathon 2026<br />
+      Top 20 of 700+ teams · Robi Data Privacy Avengers 2026
       <br /><br />
       <b>Leadership</b><br />
       Assistant General Secretary · R&amp;D<br />
@@ -528,9 +529,9 @@ Backend-focused full-stack engineer with an AI/ML research background. I build p
   <tr>
     <td valign="top">
       <b>Do Hallucination Detectors Read the Context? Transfer, Adaptation, and Grounding in Bengali Retrieval-Augmented Generation</b><br />
-      <small>Undergraduate thesis · prototype: ProofBangla</small>
+      <small>Undergraduate thesis · prototype: ProofBangla · journal version in preparation</small>
     </td>
-    <td valign="top"><code>In Progress</code></td>
+    <td valign="top"><code>Defended</code></td>
   </tr>
 </table>
 
@@ -562,7 +563,9 @@ Backend-focused full-stack engineer with an AI/ML research background. I build p
       3rd Place<br />
       <small>Google Build with Gemma Hackathon @Bangladesh</small><br /><br />
       7th Place<br />
-      <small>LofiStack Hackathon 2026 · Top 7 of 72+ teams</small>
+      <small>LofiStack Hackathon 2026 · Top 7 of 72+ teams</small><br /><br />
+      Top 20 of 700+ teams<br />
+      <small>Robi Data Privacy Avengers 2026</small>
     </td>
   </tr>
 </table>
